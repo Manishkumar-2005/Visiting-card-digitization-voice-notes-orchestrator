@@ -4,7 +4,7 @@ An end-to-end agentic application for automating the digitization of physical vi
 
 ---
 
-## 🏗️ Architectural Approach
+## Architectural Approach
 
 Our solution utilizes a decoupled client-server architecture with an agentic state-machine at its core:
 
