@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Samaira Kapoor",
+        "phone": "+91-99103 69326",
+        "email": "eyeshiv@gmail.com",
+        "company": "EYESHIV",
+        "title": "Graphic Designer",
+        "website": "www.eyeshiv.com, www.shop.eyeshiv.com",
+        "address": "38 A, Vasant Kunj Phase 1, New Delhi-110070",
+        "notes": "",
+        "audio_url": "",
+        "created_at": "2026-06-22T21:35:06.733449"
+    },
+    {
+        "name": "John Doe",
+        "phone": "+1-234-567-890",
+        "email": "john.doe@techcorp.com",
+        "company": "TECHCORP",
+        "title": "Software Engineer",
+        "website": "www.techcorp.com",
+        "address": "",
+        "notes": "",
+        "audio_url": "",
+        "created_at": "2026-06-22T21:41:21.364514"
+    },
+    {
+        "name": "Jane Smith",
+        "phone": "+1-415-555-2671",
+        "email": "jane.smith@innovate.tech",
+        "company": "Innovate Technologies",
+        "title": "Director of Partnerships",
+        "website": "www.innovatetech.io",
+        "address": "500 Innovation Way, San Francisco, CA",
+        "notes": "Updated details on Innovate Technologies",
+        "audio_url": "",
+        "created_at": "2026-06-22T21:43:42.796672",
+        "updated_at": "2026-06-22T21:46:38.878749"
+    },
+    {
+        "name": "Paul & Amanda Smith",
+        "phone": "+1-555-555-5555",
+        "email": "youremail@you.com",
+        "company": "Business Staffing Services",
+        "title": "",
+        "website": "",
+        "address": "Houston, Texas",
+        "notes": "",
+        "audio_url": "",
+        "created_at": "2026-06-22T21:51:12.333983"
+    },
+    {
+        "name": "Samaira Kapoor",
+        "phone": "+91-99103 69326",
+        "email": "eyeshiv@gmail.com",
+        "company": "EYESHIV",
+        "title": "Graphic Designer",
+        "website": "www.eyeshiv.com, www.shop.eyeshiv.com",
+        "address": "38 A, Vasant Kunj Phase 1, New Delhi-110070",
+        "notes": "",
+        "audio_url": "",
+        "created_at": "2026-06-22T22:02:10.082765"
+    },
+    {
+        "name": "John Doe",
+        "phone": "+1-234-567-890",
+        "email": "john.doe@techcorp.com",
+        "company": "TECHCORP",
+        "title": "Software Engineer",
+        "website": "www.techcorp.com",
+        "address": "",
+        "notes": "",
+        "audio_url": "",
+        "created_at": "2026-06-22T22:05:57.208589"
+    }
+]
